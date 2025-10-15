@@ -4,9 +4,9 @@
 
 ## About Me
 - I perceving my under graduation in JAIN UNIVERSITY.
-- I am very much intrested in traveling .Having good survivng skills.
+- I am very much intrested in traveling,exploring new things.
 - I am ver much intrested in reading books.
-- Beginner at AI, and tech skills
+- Advance AIML, and tech skills
 
 
 ## Skill stack
