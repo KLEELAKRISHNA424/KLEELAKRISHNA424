@@ -1,66 +1,70 @@
-## Hi there 👋
-# K LEELA KRISHNA
-**ARTIFICIAL INTELLIEGENCE AND MACHINE LEARNING** 
-
-## About Me
-- I perceving my under graduation in JAIN UNIVERSITY.
-- I am very much intrested in traveling,exploring new things.
-- I am ver much intrested in reading books.
-- Advance AIML, and tech skills
-
-
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,javascript,java,HTML,SQL=light)](https://skillicons.dev)
-
-*Also comfortable with*: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
-
+# Hi there 👋
+## I am K LEELA KRISHNA
+**AI/ML Engineer | Python & Java Developer**
 
 ---
 
-## Projects - showcase
+## About Me
+Hi, I’m **K LEELA KRISHNA** 👋  
+I am an **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems. I enjoy exploring new technologies, reading about AI innovations, and creating projects that combine **machine learning, deep learning, and data analytics**.
+
+### Highlights
+- Experienced in **building AI-driven applications** for automation and insights.  
+- Hands-on experience with **real-time AI systems** like facial recognition-based attendance.  
+- Strong foundation in **data preprocessing, model training, and deployment**.  
+- Passionate about **research, innovation, and exploring AI trends**.  
+
+---
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,java,tensorflow,sql,nosql)](https://skillicons.dev)
+
+*Also familiar with*: Git, Docker, AWS, CI/CD Pipelines, NLP, Computer Vision
+
+---
+
+## Projects - Showcase
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+      <a href="YOUR_REPO_LINK_HERE">
+        <img src="FACIAL_RECOGNITION_IMAGE_LINK"
+             alt="Facial Recognition Attendance System"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <b>Facial Recognition Attendance System</b><br/>
+      <sub>Automated attendance marking using computer vision and deep learning.</sub><br/>
+      🔗 <a href="YOUR_REPO_LINK_HERE">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: AI, Deep Learning, Computer Vision</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
+      <a href="YOUR_REPO_LINK_HERE">
+        <img src="SENTIMENT_ANALYSIS_IMAGE_LINK"
+             alt="Sentiment Analysis Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <b>Sentiment Analysis</b><br/>
+      <sub>Analyzed social media reviews and classified sentiments using NLP models.</sub><br/>
+      🔗 <a href="YOUR_REPO_LINK_HERE">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: NLP, Machine Learning, Python</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
+      <a href="YOUR_REPO_LINK_HERE">
+        <img src="OTHER_AI_PROJECT_IMAGE_LINK"
+             alt="Other AI Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/KILARI RAVI SANKAR/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <b>Other AI Projects</b><br/>
+      <sub>Worked on various ML/DL projects including predictive models and data analysis.</sub><br/>
+      🔗 <a href="YOUR_REPO_LINK_HERE">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Tags: Machine Learning, Python, AI</sub>
     </td>
   </tr>
 </table>
@@ -68,21 +72,13 @@
 ---
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=KLEELAKRISHNA424&show_icons=true&theme=gruvbox)
+![K Leela Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLEELAKRISHNA424&show_icons=true&theme=gruvbox)
 
 ---
 
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [*Portfolio*](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [*Contact*](mailto.kleelakrishna2005@gmail.com)
+- [Portfolio](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)  
+- [Contact Me](mailto:kleelakrishna2005@gmail.com)  
 
 <a href="https://www.linkedin.com/in/k-leela-krishna/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -91,5 +87,6 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+---
+
+![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
