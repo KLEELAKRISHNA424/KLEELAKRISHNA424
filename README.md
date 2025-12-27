@@ -1,92 +1,88 @@
-# Hi there 👋
-## I am K LEELA KRISHNA
-**AI/ML Engineer | Python & Java Developer**
+# Hi, I'm K Leela Krishna 👋
+### AI/ML Engineer | Python | Java | TensorFlow | SQL | NoSQL  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KLeelaKrishna-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/k-leela-krishna/)
+[![GitHub](https://img.shields.io/badge/GitHub-KLeelaKrishna-black?style=flat&logo=github)](https://github.com/KLEELAKRISHNA424)
+[![Email](https://img.shields.io/badge/Email-kleelakrishna2005@gmail.com-red?style=flat&logo=gmail)](mailto:kleelakrishna2005@gmail.com)
 
 ---
 
 ## About Me
-Hi, I’m **K LEELA KRISHNA** 👋  
-I am an **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems. I enjoy exploring new technologies, reading about AI innovations, and creating projects that combine **machine learning, deep learning, and data analytics**.
+I am a passionate **AI/ML Engineer** with hands-on experience in designing and deploying machine learning models. I specialize in **computer vision**, **NLP**, and **data analytics**, and I love turning complex problems into intelligent solutions.  
 
-### Highlights
-- Experienced in **building AI-driven applications** for automation and insights.  
-- Hands-on experience with **real-time AI systems** like facial recognition-based attendance.  
-- Strong foundation in **data preprocessing, model training, and deployment**.  
-- Passionate about **research, innovation, and exploring AI trends**.  
+- 🌱 Currently exploring **Deep Learning, Reinforcement Learning & Generative AI**  
+- 💡 Strong skills in **Python, Java, TensorFlow, SQL, NoSQL**  
+- 🚀 Building projects that integrate **AI/ML into real-world applications**  
 
 ---
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,tensorflow,sql,nosql)](https://skillicons.dev)
 
-*Also familiar with*: Git, Docker, AWS, CI/CD Pipelines, NLP, Computer Vision
-
----
-
-## Projects - Showcase
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="YOUR_REPO_LINK_HERE">
-        <img src="FACIAL_RECOGNITION_IMAGE_LINK"
-             alt="Facial Recognition Attendance System"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Facial Recognition Attendance System</b><br/>
-      <sub>Automated attendance marking using computer vision and deep learning.</sub><br/>
-      🔗 <a href="YOUR_REPO_LINK_HERE">Repo</a>
-      <br/>
-      <sub>Tags: AI, Deep Learning, Computer Vision</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="YOUR_REPO_LINK_HERE">
-        <img src="SENTIMENT_ANALYSIS_IMAGE_LINK"
-             alt="Sentiment Analysis Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Sentiment Analysis</b><br/>
-      <sub>Analyzed social media reviews and classified sentiments using NLP models.</sub><br/>
-      🔗 <a href="YOUR_REPO_LINK_HERE">Repo</a>
-      <br/>
-      <sub>Tags: NLP, Machine Learning, Python</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="YOUR_REPO_LINK_HERE">
-        <img src="OTHER_AI_PROJECT_IMAGE_LINK"
-             alt="Other AI Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Other AI Projects</b><br/>
-      <sub>Worked on various ML/DL projects including predictive models and data analysis.</sub><br/>
-      🔗 <a href="YOUR_REPO_LINK_HERE">Repo</a>
-      <br/>
-      <sub>Tags: Machine Learning, Python, AI</sub>
-    </td>
-  </tr>
-</table>
+| **Programming** | **ML & DL** | **Data** | **Tools & Frameworks** |
+|-----------------|-------------|----------|-----------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python, ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java&logoColor=white) Java | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow, ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) PyTorch, Keras | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) SQL, ![MongoDB](https://img.shields.io/badge/-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white) NoSQL | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git, ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker, Jupyter, VS Code, Colab |
 
 ---
 
-## Stats
-![K Leela Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLEELAKRISHNA424&show_icons=true&theme=gruvbox)
+## Projects
+
+### 1️⃣ Facial Recognition Attendance System
+![Face Recognition](https://img.shields.io/badge/AI-ComputerVision-orange)  
+- Built an **automated attendance system** using **OpenCV & FaceNet**.  
+- Real-time face recognition with **Python** and **TensorFlow**.  
+- Integrated with a **SQL database** for attendance logs.  
+[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
 
 ---
 
-## Links
-- [Portfolio](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)  
-- [Contact Me](mailto:kleelakrishna2005@gmail.com)  
-
-<a href="https://www.linkedin.com/in/k-leela-krishna/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/leelakrishna_25/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
+### 2️⃣ Sentiment Analysis Web App
+![NLP](https://img.shields.io/badge/AI-NLP-red)  
+- Developed **sentiment classification** model using **LSTM & BERT**.  
+- Web-based dashboard to visualize **user sentiment in real-time**.  
+- Technologies: Python, Flask, TensorFlow, HTML/CSS, JS.  
+[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
 
 ---
 
-![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+### 3️⃣ Stock Price Prediction Using ML
+![ML](https://img.shields.io/badge/AI-PredictiveModeling-green)  
+- Implemented **time series prediction** using **LSTM & ARIMA models**.  
+- Visualized predicted vs actual prices with **Matplotlib**.  
+- Achieved **90% accuracy** on test datasets.  
+[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
+
+---
+
+### 4️⃣ AI Chatbot
+![AI](https://img.shields.io/badge/AI-Chatbot-blueviolet)  
+- Built an **intelligent chatbot** using **transformers & NLP techniques**.  
+- Features **contextual conversation and query answering**.  
+- Deployed using **Flask & Heroku**.  
+[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
+
+---
+
+## Education
+🎓 **Bachelor of Technology in Computer Science & Engineering Specialisation in AIML**  
+**JAIN University** | 2023 - 2027 
+
+---
+
+## Certifications
+- TensorFlow Developer Certificate  
+- IBM AI Engineering Professional Certificate  
+- SQL & Data Analytics Certification  
+
+---
+
+## Contact Me
+📧 kleelakrishna2005@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/k-leela-krishna/)  
+🐱 [GitHub](https://github.com/KLEELAKRISHNA424)  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohc1h8KYZctQbqRlo/giphy.gif" width="200"/>
+  <p>“Turning data into intelligence”</p>
+</div>
