@@ -58,7 +58,7 @@ I am a passionate **AI/ML Engineer** with hands-on experience in designing and d
 - Built an **intelligent chatbot** using **transformers & NLP techniques**.  
 - Features **contextual conversation and query answering**.  
 - Deployed using **Flask & Heroku**.  
-[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
+[View Project](https://github.com/KLEELAKRISHNA424/AI_WEB_CHATBOT.git)
 
 ---
 
