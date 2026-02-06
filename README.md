@@ -49,7 +49,8 @@ I am a passionate **AI/ML Engineer** with hands-on experience in designing and d
 - Implemented **time series prediction** using **LSTM & ARIMA models**.  
 - Visualized predicted vs actual prices with **Matplotlib**.  
 - Achieved **90% accuracy** on test datasets.  
-[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
+[View Project](https://github.com/KLEELAKRISHNA424/stock_price_prediction..git
+)
 
 ---
 
