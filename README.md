@@ -31,7 +31,7 @@ I am a passionate **AI/ML Engineer** with hands-on experience in designing and d
 - Built an **automated attendance system** using **OpenCV & FaceNet**.  
 - Real-time face recognition with **Python** and **TensorFlow**.  
 - Integrated with a **SQL database** for attendance logs.  
-[View Project](https://github.com/KLEELAKRISHNA424/PORTFOLIO)
+[View Project](https://github.com/KLEELAKRISHNA424/Attendnet)
 
 ---
 
